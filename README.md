@@ -1,1 +1,1 @@
-# Counting-Sort-1-algo
+# Counting-Sort-1-algo This function counts how many times each number from 0 to 99 appears in the input list and returns a list of these counts. Each index in the result corresponds to a number, and the value at that index is its frequency.
